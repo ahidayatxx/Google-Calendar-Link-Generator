@@ -264,6 +264,3 @@ Selalu sertakan catatan berikut dalam respons acara berulang:
 - Pengaturan manual 1-2 kali akan menerapkan ke seluruh seri acara berulang
 ```
 
----
-
-**Catatan:** Instruksi ini untuk ChatGPT Project agar dapat menangani acara berulang dengan berbagai pola pengulangan (mingguan, bulanan, interval khusus) secara konsisten dan reliable.
