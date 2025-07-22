@@ -202,8 +202,6 @@ Lihat juga daftar [kontributor](https://github.com/username/claude-gcal-generato
 
 ## 📞 Dukungan
 
-- 📧 **Email:** support@example.com
-- 💬 **Discord:** [Server Discord](https://discord.gg/invite)
 - 🐛 **Bug Reports:** [GitHub Issues](https://github.com/username/claude-gcal-generator/issues)
 - 💡 **Feature Requests:** [GitHub Discussions](https://github.com/username/claude-gcal-generator/discussions)
 
