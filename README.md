@@ -85,18 +85,7 @@ Detail Acara:
 ├── 📂 gemini/
 │   ├── 📄 gemini-instructions.md         # Instruksi untuk Google Gemini
 │   └── 📄 gemini-examples.md             # Contoh penggunaan Gemini
-├── 📂 docs/
-│   ├── 📄 url-encoding-guide.md          # Panduan URL encoding
-│   ├── 📄 timezone-conversion.md         # Panduan konversi zona waktu
-│   ├── 📄 rrule-patterns.md              # Pola RRULE untuk pengulangan
-│   └── 📄 troubleshooting.md             # Panduan troubleshooting
-├── 📂 examples/
-│   ├── 📄 single-events.md               # Contoh acara tunggal
-│   ├── 📄 recurring-events.md            # Contoh acara berulang
-│   └── 📄 advanced-patterns.md           # Pola pengulangan lanjutan
-└── 📂 tests/
-    ├── 📄 test-cases.md                  # Test cases
-    └── 📄 validation-checklist.md       # Checklist validasi
+
 ```
 
 ## 🔧 Pola Pengulangan yang Didukung
