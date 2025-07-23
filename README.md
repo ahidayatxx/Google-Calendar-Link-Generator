@@ -76,15 +76,14 @@ Detail Acara:
 ├── 📄 README.md                           # File ini
 ├── 📄 LICENSE                             # Lisensi MIT
 ├── 📂 claude/
-│   ├── 📄 claude-project-instructions.md  # Instruksi untuk Claude Project
-│   └── 📄 claude-examples.md             # Contoh penggunaan Claude
+│   └── 📄 claude-project-instructions.md  # Instruksi untuk Claude Project
+│  
 ├── 📂 chatgpt/
-│   ├── 📄 chatgpt-custom-instructions.md # Instruksi untuk Custom GPT
-│   ├── 📄 knowledge-base.md              # Knowledge base
-│   └── 📄 chatgpt-examples.md            # Contoh penggunaan ChatGPT
+│   └──📄 chatgpt-custom-instructions.md # Instruksi untuk Custom GPT
+│  
 ├── 📂 gemini/
-│   ├── 📄 gemini-instructions.md         # Instruksi untuk Google Gemini
-│   └── 📄 gemini-examples.md             # Contoh penggunaan Gemini
+│   └── 📄 gemini-instructions.md         # Instruksi untuk Google Gemini
+│  
 
 ```
 
